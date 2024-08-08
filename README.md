@@ -55,7 +55,9 @@ This dataset contains information about employees in a company, including their 
 
 ## Results
 
-- ![Tableau Dashboard](Attrition Dashboard.png)
+- ![Tableau Dashboard](https://github.com/khalidziarabbani/stupen-celerates/blob/main/Attrition%20Dashboard.png)
+
+- [Public Tableau](https://public.tableau.com/app/profile/vira.nur.titisari/viz/AttritionDashboard_FinalProject_Kelompok5/AttritionDashboard)
 
 - [Code Result](code.ipynb)
 
